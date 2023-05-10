@@ -50,3 +50,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer ⚠️
 
 This project is intended for entertainment purposes only. Use it at your own risk. The author is not responsible for any consequences of using this algorithm, such as heartbreak, depression, or existential crisis.
+
+## BibTex 📖
+
+```
+@misc{does_she_like_me,
+  title = {Does She Like Me?},
+  author = {Anonymous},
+  year = {2023},
+  howpublished = {\url{https://github.com/anonymous/does_she_like_me}},
+  note = {Accessed: 2023-05-10}
+}
+```
